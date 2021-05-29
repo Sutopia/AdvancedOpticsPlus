@@ -1,0 +1,10 @@
+{
+    "id": "su_SuperAdvancedOptics",
+    "name": "Super Advanced Optics",
+    "author": "Sutopia",
+    "utility": "false",
+    "version": "1.0.0a",
+    "description": "High Scatter Amplifier alternative and more someing soon(tm)",
+    "gameVersion": "0.95a-RC15",
+	"jars": ["jar/AdvancedOpticsPlus.jar"],
+}

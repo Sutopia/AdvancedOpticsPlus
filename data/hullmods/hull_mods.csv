@@ -1,0 +1,5 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
+Experimental Raman Amplifier,optics_su_raman,3,,Advanced,"offensive, merc",Weapons,50000,,,,5,10,15,25,org.sutopia.starsector.mod.advancedoptics.hullmods.RamanAmplifier,"Beam weapons deal full hard flux damage on shield for target under %s range and gradually reduces hard flux proportion over range.
+The reduction is linear and is down to full soft flux at %s range.
+
+If using this hullmod without Advanced Optics, reduces beam weapon range by %s",Reduces beam weapon range; beam weapons deal hard flux to shields.,graphics/hullmods/high_scatter_amp.png
